@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+    padding: 0;
+    background-color: black;
+}
+
+.quienes{
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.header{
+    background-color: black;
+}
+
+
+h3{
+text-align: center;
+color: white;
+}
+
+.principio{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+}
+
+.icono{
+    background-color: rgb(59, 147, 205);
+    text-align: center;
+}
+
+.texto{
+    background-color: black;
+    color: white;
+    
+}
+
+.form-group{
+    color: white;
+    
+}
+footer{
+    background-color: rgb(59, 147, 205);
+}
+
+.viajeschile{
+    color: white;
+    font-size: 25px;
+
+}
+
+
